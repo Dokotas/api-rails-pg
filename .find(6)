@@ -1,0 +1,22 @@
+=> 
+[[32m#<Job:0x000070abedce48e8[0m
+  [36mid[0m: [34m[1m5[0m,
+  [36mname[0m: [31m[1m"[0m[31mRuby on Rails[0m[31m[1m"[0m,
+  [36mplace[0m: [31m[1m"[0m[31mRemote[0m[31m[1m"[0m,
+  [36mcompany_id[0m: [34m[1m4[0m,
+  [36mcreated_at[0m: Mon, 26 Oct 2026 19:11:44.632842000 UTC +00:00,
+  [36mupdated_at[0m: Mon, 26 Oct 2026 19:11:44.632842000 UTC +00:00[32m>[0m,
+ [32m#<Job:0x000070abed38c598[0m
+  [36mid[0m: [34m[1m6[0m,
+  [36mname[0m: [31m[1m"[0m[31mNode[0m[31m[1m"[0m,
+  [36mplace[0m: [31m[1m"[0m[31mPermanent[0m[31m[1m"[0m,
+  [36mcompany_id[0m: [34m[1m4[0m,
+  [36mcreated_at[0m: Mon, 26 Oct 2026 19:11:44.636231000 UTC +00:00,
+  [36mupdated_at[0m: Mon, 26 Oct 2026 19:11:44.636231000 UTC +00:00[32m>[0m,
+ [32m#<Job:0x000070abed61fa08[0m
+  [36mid[0m: [34m[1m7[0m,
+  [36mname[0m: [31m[1m"[0m[31mJavascript CSS HTML[0m[31m[1m"[0m,
+  [36mplace[0m: [31m[1m"[0m[31mPermanent[0m[31m[1m"[0m,
+  [36mcompany_id[0m: [34m[1m4[0m,
+  [36mcreated_at[0m: Mon, 26 Oct 2026 19:11:44.640469000 UTC +00:00,
+  [36mupdated_at[0m: Mon, 26 Oct 2026 19:11:44.640469000 UTC +00:00[32m>[0m]
