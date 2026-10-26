@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   scope module: 'api' do
     namespace :v1 do
       resources :companies do
+        put :mark_deleted, on: :member # PUT /v1/companies/:id/mark_deleted
         resources :jobs,  only: %i[index show]
         resources :geeks, only: :index
       end

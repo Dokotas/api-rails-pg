@@ -9,4 +9,10 @@ class Company < ApplicationRecord
 
   scope :by_name,     ->(v) { where('name ILIKE ?', "%#{v}%") if v.present? }
   scope :by_location, ->(v) { where('location ILIKE ?', "%#{v}%") if v.present? }
+
+  scope :active, -> { where(deleted: false) }
+
+  def delete_company
+    update(deleted: true)
+  end
 end
